@@ -1,0 +1,8 @@
+.header1 {
+  background-color: brown;
+  font-size: large;
+  color: white;
+  display: flex;
+  flex-flow:column nowrap;
+  justify-content: center;
+}
